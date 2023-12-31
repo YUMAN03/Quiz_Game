@@ -1,2 +1,2 @@
 # Quiz_Game
-This is a simple Quiz Game developed by Yashasvi Yadav and Mohd Yuman.
+This is a simple Quiz Game developed by Mohd Yuman and Yashasvi Yadav
